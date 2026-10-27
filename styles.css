@@ -17,3 +17,4 @@
 /* Keep the risk card clear of the photo caption */
 .card-risk{bottom:-20px!important;top:auto}
 @media(max-width:600px){.visual-footnote{display:none}.community-cards{grid-template-columns:1fr}.feature-card p{min-height:0}}
+.social-links{display:flex;flex-wrap:wrap;align-items:center;gap:12px 26px}

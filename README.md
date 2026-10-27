@@ -15,7 +15,7 @@ Abra `index.html` no navegador ou execute `python -m http.server 8080` nesta pas
 
 ## Confirmar antes da publicação
 
-- Link oficial do canal no YouTube: ainda não informado; nenhum link provisório foi incluído.
+- Canal no YouTube: https://www.youtube.com/@diariodeumcriptolouco
 - Domínio final: após a definição, adicionar `canonical` e `og:url` absolutos e tornar `og:image` absoluto. Por enquanto, a imagem Open Graph usa `assets/eduardo-podcast.jpg`.
 - As métricas de +1.000 inscritos e +2 anos de atuação foram informadas pelo próprio criador e precisam ser confirmadas e atualizadas por ele.
 - Confirmar se o convite do WhatsApp continua ativo e direciona para a comunidade correta.
